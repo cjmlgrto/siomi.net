@@ -17,7 +17,8 @@ html {
 	background-color: $color-background;
 
 	-webkit-text-size-adjust: 100%;
-	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: subpixel-antialiased;
 }
 
 ul, ol,

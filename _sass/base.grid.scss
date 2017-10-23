@@ -1,0 +1,15 @@
+// ------------------------------------------
+// Grid
+// ------------------------------------------
+
+.grid {
+	display: flex;
+	margin: 0 auto;
+	flex-wrap: wrap;
+	max-width: $width-content;
+}
+
+.type-tester {
+	width: 32rem;
+	display: block;
+}
