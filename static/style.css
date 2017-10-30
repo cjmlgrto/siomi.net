@@ -14,14 +14,11 @@ figure, img, video, audio, embed, .embed {
 
 :root {
 	--width-content: 1200px;
-	/*--color-primary: #3382D0;*/
 	--color-primary: #67A1CA;
-	/*--color-secondary: #67A1CA;*/
 	--color-secondary: #E5728A;
 	--color-separators: #ECF4F6;
-	/*--color-separators: #F6ECEE;*/
 	--type-primary: "PT Serif", "Georgia", serif;
-	--type-secondary: "Mallory", "Gill Sans", "Gill Sans MS", sans-serif;
+	--type-secondary: "qWNHNgXEpEmhJDNFu8", "Mallory", "Gill Sans", "Gill Sans MS", sans-serif;
 }
 
 html {
