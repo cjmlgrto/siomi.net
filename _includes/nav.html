@@ -1,10 +1,10 @@
-<nav class="nav">
+<nav>
 	<ul>
-		<li><a href="#">Front Page</a></li>
-		<li><a href="#">Blog</a></li>
-		<li><a href="#">Secret Shames</a></li>
-		<li><a href="#">Market Spotlight</a></li>
-		<li><a href="#">Citations</a></li>
-		<li><a href="#">About</a></li>
+		<li><a href="/" {% if page.title == 'Front Page' %}class="current"{% endif %} >Front Page</a></li>
+		<li><a href="/blog" {% if page.title == 'Blog' %}class="current"{% endif %}>Blog</a></li>
+		<li><a href="/market-spotlight" {% if page.title == 'Market Spotlight' %}class="current"{% endif %}>Market Spotlight</a></li>
+		<li><a href="/secret-shames" {% if page.title == 'Secret Shames' %}class="current"{% endif %}>Secret Shames</a></li>
+		<li><a href="/citations" {% if page.title == 'Citations' %}class="current"{% endif %}>Citations</a></li>
+		<li><a href="/about" {% if page.title == 'About' %}class="current"{% endif %}>About</a></li>
 	</ul>
 </nav>

@@ -1,1 +1,12 @@
+	<script type="text/javascript">
+		var m = document.getElementById('menu');
+		var s = m.offsetTop - 0;
+		var h = window.pageYOffset !== undefined;
+		var d = document.documentElement || document.body.parentNode || document.body;
+		var t;
+		window.onscroll = function(e) {
+			t = h ? window.pageYOffset : d.scrollTop;
+			m.className = (t >= s) ? 'stuck' : '';
+		}
+	</script>
 </html>

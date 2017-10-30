@@ -1,7 +1,37 @@
+# ------------------------------------------
+# Configuration
+# ------------------------------------------
+
 title: siomi.net
 author: Stephanie Siomos
-description: Finance & Economics student @MonashBusiness. I like tech. Positive-NPV.
+description: I’m Stephanie Siomos. I’m a Finance & Economics student @MonashBusiness. I like tech. Positive-NPV.
 
 url: http://siomi.net
-icon: /static/images/favicon.ico
+icon: /static/stephanie.jpg
 color: 3B5591
+twitter: stephaniesiomos
+contact: mailto:#
+
+paginate: 5
+paginate_path: /blog/page:num/
+
+plugins:
+- jekyll-paginate
+
+exclude:
+- .env
+- .gitignore
+- Rakefile
+- Gemfile
+- Gemfile.lock
+- README.md
+- s3_website.yml
+
+defaults:
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: default
+    title: null
+    image: null

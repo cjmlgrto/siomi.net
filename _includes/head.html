@@ -12,8 +12,23 @@
 	<meta name="description" content="{{ site.description }}">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:type" content="{% if page.layout == 'default' %}article{% else %}website{% endif %}">
+    <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif page.image %}{{ page.image | absolute_url }}{% else %}{{ site.icon | absolute_url }}{% endif %}"/>
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:title" content="{{ site.title }}">
+    <meta name="twitter:site" content="@{{ site.twitter }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif page.image %}{{ page.image | absolute_url }}{% else %}{{ site.icon | absolute_url }}{% endif %}"/>
+
 	<link rel="shortcut icon" href="{{ site.icon | absolute_url }}">
 	<link rel="apple-touch-icon" href="{{ site.icon | absolute_url }}">
 	
 	<link rel="stylesheet" href="/static/style.css">
 </head>
+<!-- VIEW THE SOURCE CODE HERE: https://github.com/cjmlgrto/siomi.net -->
