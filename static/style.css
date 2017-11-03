@@ -18,7 +18,7 @@ figure, img, video, audio, embed, .embed {
 	--color-secondary: #E5728A;
 	--color-separators: #ECF4F6;
 	--type-primary: "PT Serif", "Georgia", serif;
-	--type-secondary: "qWNHNgXEpEmhJDNFu8", "Mallory", "Gill Sans", "Gill Sans MS", sans-serif;
+	--type-secondary: "qWNHNgXEpEmhJDNFu8", "Gill Sans", "Gill Sans MS", sans-serif;
 }
 
 html {
@@ -372,7 +372,7 @@ main > ul > li > a > article {
 
 @media (max-width: 720px) and (min-width: 480px) {
 	nav { 
-		padding-bottom: .5rem; 
+		padding-bottom: 0; 
 	}
 
 	nav ul { 
