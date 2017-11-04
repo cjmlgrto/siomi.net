@@ -1,7 +1,7 @@
 ---
 title: Market Spotlight
+permalink: "/market-spotlight/"
 layout: default
-permalink: /market-spotlight/
 ---
 
 Content about Market Spotlight goes here

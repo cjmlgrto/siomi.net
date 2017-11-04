@@ -1,37 +1,37 @@
-# ------------------------------------------
-# Configuration
-# ------------------------------------------
-
+---
 title: siomi.net
+timezone: Australia/Melbourne
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: default
+    title: 
+    image: 
 author: Stephanie Siomos
 description: Stephanie Siomos' Website
-
 url: http://siomi.net
-icon: /static/stephanie.jpg
+icon: "/static/stephanie.jpg"
 color: 3B5591
 twitter: stephaniesiomos
 contact: mailto:#
-
 paginate: 5
-paginate_path: /blog/page:num/
-
+paginate_path: "/blog/page:num/"
 plugins:
 - jekyll-paginate
-
 exclude:
-- .env
-- .gitignore
+- ".env"
+- ".gitignore"
 - Rakefile
 - Gemfile
 - Gemfile.lock
 - README.md
 - s3_website.yml
-
-defaults:
-- scope:
-    path: ""
-    type: posts
-  values:
-    layout: default
-    title: null
-    image: null

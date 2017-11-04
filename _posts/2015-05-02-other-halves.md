@@ -1,5 +1,6 @@
 ---
 title: The Inferno of Independence
+date: 2015-05-02 00:00:00 Z
 image: https://static1.squarespace.com/static/52be02f2e4b05b3d6c3faf0e/56c284189f7266120125de8f/59d2788b6f4ca3ae27567b1f/1506965657372/KS-full+res+%288+of+20%29.jpg?format=1500w
 ---
 
