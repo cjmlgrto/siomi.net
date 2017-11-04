@@ -2,22 +2,22 @@
 	{% include nav.html %}
 	<ul class="socials">
 		<li>
-			<a href="https://twitter.com/stephaniesiomos" class="twitter">
+			<a href="https://twitter.com/{{ site.twitter }}" class="twitter">
 				{% include twitter.svg %}
 			</a>
 		</li>
 		<li>
-			<a href="https://instagram.com/stephaniesiomos" class="instagram">
+			<a href="https://instagram.com/{{ site.twitter }}" class="instagram">
 				{% include instagram.svg %}
 			</a>
 		</li>
 		<li>
-			<a href="https://linkedin.com/stephaniesiomos" class="linkedin">
+			<a href="https://linkedin.com/{{ site.twitter }}" class="linkedin">
 				{% include linkedin.svg %}
 			</a>
 		</li>
 		<li>
-			<a href="mailto:" class="email">
+			<a href="{{ site.email }}" class="email">
 				{% include email.svg %}
 			</a>
 		</li>
