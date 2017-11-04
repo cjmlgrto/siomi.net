@@ -1,5 +1,6 @@
 ---
 title: Casting Graphite in Gold
+date: 2017-06-02 00:00:00 Z
 image: https://static1.squarespace.com/static/52be02f2e4b05b3d6c3faf0e/56c284189f7266120125de8f/56c2867a20c64707756e8e56/1504187115867/Photo+Apr+17%2C+12+29+14.jpg?format=1500w
 ---
 
