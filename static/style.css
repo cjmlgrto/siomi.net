@@ -14,7 +14,8 @@ figure, img, video, audio, embed, .embed {
 
 :root {
 	--width-content: 1200px;
-	--color-primary: #67A1CA;
+	/*--color-primary: #67A1CA;*/
+	--color-primary: #8095A3;
 	--color-secondary: #E5728A;
 	--color-separators: #ECF4F6;
 	--type-primary: "PT Serif", "Georgia", serif;
