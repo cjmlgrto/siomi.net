@@ -17,6 +17,7 @@ figure, img, video, audio, embed, .embed {
 	/*--color-primary: #67A1CA;*/
 	--color-primary: #8095A3;
 	--color-secondary: #E5728A;
+	--color-tertiary: #67A1CA;
 	--color-separators: #F1F3F4;
 	--type-primary: "PT Serif", "Georgia", serif;
 	--type-secondary: "qWNHNgXEpEmhJDNFu8", "Gill Sans", "Gill Sans MS", sans-serif;
@@ -293,6 +294,39 @@ main > ul > li > a > article {
 	width: 1.5rem;
 	display: block;
 	color: var(--color-primary);
+}
+
+.socials a:hover {
+	color: var(--color-secondary);
+	-webkit-animation: disco 0.8s alternate;
+	-moz-animation:    disco 0.8s alternate;
+	-o-animation:      disco 0.8s alternate;
+	animation:         disco 0.8s alternate;
+}
+
+@-webkit-keyframes disco {
+  0%  { color: var(--color-primary); }
+  25% { color: var(--color-tertiary); }
+  50% { color: var(--color-primary);  }
+  80% { color: var(--color-tertiary); }
+}
+@-moz-keyframes disco {
+  0%  { color: var(--color-primary); }
+  25% { color: var(--color-tertiary); }
+  50% { color: var(--color-primary);  }
+  80% { color: var(--color-tertiary); }
+}
+@-o-keyframes disco {
+  0%  { color: var(--color-primary); }
+  25% { color: var(--color-tertiary); }
+  50% { color: var(--color-primary);  }
+  80% { color: var(--color-tertiary); }
+}
+@keyframes disco {
+  0%  { color: var(--color-primary); }
+  25% { color: var(--color-tertiary); }
+  50% { color: var(--color-primary);  }
+  80% { color: var(--color-tertiary); }
 }
 
 .socials a svg g {
