@@ -16,14 +16,14 @@ defaults:
     layout: default
     title: 
     image: 
-Author: "Stephanie Siomos"
-Description: "Site Description Goes Here"
+Author: Stephanie Siomos
+Description: Site Description Goes Here
 url: siomi.net
 Avatar URL: "/static/stephanie.jpg"
 Theme Color: 8095A3
-Twitter URL: "https://twitter.com/stephaniesiomos"
-Instagram URL: "https://instagram.com/stephaniesiomos"
-LinkedIn URL: "https://linkedin.com/in/stephaniesiomos"
+Twitter URL: https://twitter.com/stephaniesiomos
+Instagram URL: https://instagram.com/stephaniesiomos
+LinkedIn URL: https://linkedin.com/in/stephaniesiomos
 Email Address: stephaniesiomos@gmail.com
 paginate: 5
 paginate_path: "/blog/page:num/"
