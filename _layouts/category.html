@@ -4,7 +4,8 @@
 	<div class="split">
 		<main>
 			<ul>
-				{% for post in paginator['posts'] %}
+				{% for post in site['posts'] %}
+				{% if post['categories'][0] == page['category'] %}
 					<li>
 						<a href="{{ post['url'] }}" title="{{ post['title'] }}">
 							<article>
@@ -17,23 +18,12 @@
 							</article>
 						</a>
 					</li>
+				{% endif %}
 				{% endfor %}
 			</ul>
 		</main>
 		{% include sidebar.html %}
 	</div>
-	{% if paginator['previous_page'] or paginator['next_page'] %}
-	<nav class="pagination">
-		<ul>
-			{% if paginator['previous_page'] %}
-			<li><a href="{{ paginator.previous_page_path }}">Newer Posts</a></li>
-			{% endif %}
-			{% if paginator['next_page'] %}
-			<li><a href="{{ paginator.next_page_path }}">Older Posts</a></li>
-			{% endif %}
-		</ul>
-	</nav>
-	{% endif %}
 	{% include footer.html %}
 </body>
 {% include foot.html %}
