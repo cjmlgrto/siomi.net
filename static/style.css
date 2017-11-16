@@ -14,7 +14,6 @@ figure, img, video, audio, embed, .embed {
 
 :root {
 	--width-content: 1200px;
-	/*--color-primary: #67A1CA;*/
 	--color-primary: #8095A3;
 	--color-secondary: #E5728A;
 	--color-tertiary: #67A1CA;
@@ -29,8 +28,10 @@ html {
 	line-height: 1.5;
 	font-family: var(--type-primary);
 	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
 }
 
 body {
@@ -102,11 +103,11 @@ header {
 }
 
 .logo {
+	color: #444;
 	display: block;
 	max-width: 12rem;
 	margin: 0 auto 1rem;
 	border-bottom: none;
-	color: #444;
 	transition: all 0.25s cubic-bezier(.06, .53, .41, .89);
 }
 
@@ -299,34 +300,9 @@ main > ul > li > a > article {
 .socials a:hover {
 	color: var(--color-secondary);
 	-webkit-animation: disco 0.8s alternate;
-	-moz-animation:    disco 0.8s alternate;
-	-o-animation:      disco 0.8s alternate;
-	animation:         disco 0.8s alternate;
-}
-
-@-webkit-keyframes disco {
-  0%  { color: var(--color-primary); }
-  25% { color: var(--color-tertiary); }
-  50% { color: var(--color-primary);  }
-  80% { color: var(--color-tertiary); }
-}
-@-moz-keyframes disco {
-  0%  { color: var(--color-primary); }
-  25% { color: var(--color-tertiary); }
-  50% { color: var(--color-primary);  }
-  80% { color: var(--color-tertiary); }
-}
-@-o-keyframes disco {
-  0%  { color: var(--color-primary); }
-  25% { color: var(--color-tertiary); }
-  50% { color: var(--color-primary);  }
-  80% { color: var(--color-tertiary); }
-}
-@keyframes disco {
-  0%  { color: var(--color-primary); }
-  25% { color: var(--color-tertiary); }
-  50% { color: var(--color-primary);  }
-  80% { color: var(--color-tertiary); }
+	-moz-animation: disco 0.8s alternate;
+	-o-animation: disco 0.8s alternate;
+	animation: disco 0.8s alternate;
 }
 
 .socials a svg g {
@@ -440,4 +416,32 @@ main > ul > li > a > article {
 	.blurb h1 { 
 		font-size: 1rem; 
 	}
+}
+
+@-webkit-keyframes disco {
+	0% { color: var(--color-secondary); }
+	25% { color: var(--color-tertiary); }
+	50% { color: var(--color-secondary); }
+	75% { color: var(--color-tertiary); }
+}
+
+@-moz-keyframes disco {
+	0% { color: var(--color-secondary); }
+	25% { color: var(--color-tertiary); }
+	50% { color: var(--color-secondary); }
+	75% { color: var(--color-tertiary); }
+}
+
+@-o-keyframes disco {
+	0% { color: var(--color-secondary); }
+	25% { color: var(--color-tertiary); }
+	50% { color: var(--color-secondary); }
+	75% { color: var(--color-tertiary); }
+}
+
+@keyframes disco {
+	0% { color: var(--color-secondary); }
+	25% { color: var(--color-tertiary); }
+	50% { color: var(--color-secondary); }
+	75% { color: var(--color-tertiary); }
 }

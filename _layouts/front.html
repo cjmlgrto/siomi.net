@@ -2,13 +2,13 @@
 <body>
 	{% include header.html %}
 	
-	{% for post in site.posts limit:1 %}
-	<a class="featured" href="{{ post.url }}">
-		<img src="{{ post.image }}"/>
+	{% for post in site['posts'] limit:1 %}
+	<a class="featured" href="{{ post['url'] }}">
+		<img src="{{ post['image'] }}"/>
 		<div class="teaser">
-			<h1>{{ post.title }}</h1>
-			<time>{{ post.date | date: "%B %-d %Y" }}</time>
-			<p>{{ post.excerpt | truncatewords: 30 }}</p>
+			<h1>{{ post['title'] }}</h1>
+			<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
+			<p>{{ post['excerpt'] | truncatewords: 30 }}</p>
 		</div>
 	</a>
 	{% endfor %}
@@ -16,15 +16,15 @@
 	<div class="split">
 		<main>
 			<ul>
-				{% for post in site.posts offset:1 %}
+				{% for post in site['posts'] offset:1 %}
 					<li>
-						<a href="{{ post.url }}" title="{{ post.title }}">
+						<a href="{{ post['url'] }}" title="{{ post['title'] }}">
 							<article>
-								<div class="preview" style="background-image: url({{ post.image }});"></div>
+								<div class="preview" style="background-image: url({{ post['image'] }});"></div>
 								<div class="blurb">
-									<h1>{{ post.title }}</h1>
-									<time>{{ post.date | date: "%B %-d %Y" }}</time>
-									<p>{{ post.excerpt | truncatewords: 20 }}</p>
+									<h1>{{ post['title'] }}</h1>
+									<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
+									<p>{{ post['excerpt'] | truncatewords: 20 }}</p>
 								</div>
 							</article>
 						</a>

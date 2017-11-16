@@ -16,13 +16,15 @@ defaults:
     layout: default
     title: 
     image: 
-author: Stephanie Siomos
-description: Stephanie Siomos' Website
-url: https://cjmlgrto.github.io/siomi.net/
-icon: "/static/stephanie.jpg"
-color: 8095A3
-twitter: stephaniesiomos
-contact: mailto:#
+Author: "Stephanie Siomos"
+Description: "Site Description Goes Here"
+url: siomi.net
+Avatar URL: "/static/stephanie.jpg"
+Theme Color: 8095A3
+Twitter URL: "https://twitter.com/stephaniesiomos"
+Instagram URL: "https://instagram.com/stephaniesiomos"
+LinkedIn URL: "https://linkedin.com/in/stephaniesiomos"
+Email Address: stephaniesiomos@gmail.com
 paginate: 5
 paginate_path: "/blog/page:num/"
 plugins:
