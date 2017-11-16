@@ -2,6 +2,8 @@
 title: Only Openings
 date: 2014-05-14 00:00:00 Z
 image: https://static1.squarespace.com/static/52be02f2e4b05b3d6c3faf0e/56c284189f7266120125de8f/56c286a3b6aa607f7a7ff8ee/1504187115873/Photo+Apr+30%2C+14+35+30.jpg?format=1500w
+categories:
+- Market Spotlight
 ---
 
 Sometimes a rose can grow out of bullshit.

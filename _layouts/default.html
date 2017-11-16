@@ -12,6 +12,11 @@
 				<div class="content">
 					{{ content }}
 				</div>
+				{% if page['categories'][0] %}
+				<div class="category">
+					Categorized under: <a href="{{ page['categories'][0] | downcase | replace:' ','-' | absolute_url }}">{{ page['categories'][0] }}</a>
+				</div>
+				{% endif %}
 			</article>
 		</main>
 		{% include sidebar.html %}

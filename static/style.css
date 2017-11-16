@@ -312,13 +312,19 @@ main > ul > li > a > article {
 .copyright {
 	color: #ccc;
 	font-size: 0.8em;
-	margin-top: 2rem;
+	margin-top: 1.5rem;
 	text-align: center;
 }
 
 .copyright a {
 	color: inherit;
 	border-bottom-color: currentColor;
+}
+
+.category {
+	font-size: 0.8rem;
+	padding-top: 0.5rem;
+	border-top: 1px solid var(--color-separators);
 }
 
 @media (min-width: 720px) {
@@ -373,6 +379,12 @@ main > ul > li > a > article {
 
 	.blurb p {
 		display: block;
+	}
+
+	.category {
+		margin-top: 3.5rem;
+		margin-bottom: -3.5rem;
+		width: calc(100% + 1rem);
 	}
 }
 
