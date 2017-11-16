@@ -309,6 +309,18 @@ main > ul > li > a > article {
 	fill: currentColor;
 }
 
+.copyright {
+	color: #ccc;
+	font-size: 0.8em;
+	margin-top: 2rem;
+	text-align: center;
+}
+
+.copyright a {
+	color: inherit;
+	border-bottom-color: currentColor;
+}
+
 @media (min-width: 720px) {
 	body {
 		padding: 2rem;
