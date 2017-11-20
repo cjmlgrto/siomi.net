@@ -2,15 +2,15 @@
 title: siomi.net
 timezone: Australia/Melbourne
 collections:
+  categories:
+    title: Categories
+    output: true
   posts:
     title: Posts
     output: true
     layout: default
   uploads:
     title: Uploads
-    output: true
-  categories:
-    title: Categories
     output: true
 defaults:
 - scope:
@@ -19,13 +19,13 @@ defaults:
   values:
     layout: default
     title: 
-    image:
+    image: 
 - scope:
     path: ''
     type: categories
   values:
     layout: category
-    permalink: /category/:title/
+    permalink: "/category/:title/"
 Author: Stephanie Siomos
 Description: 'Hi, I''m Stephanie - a 21-year-old from Melbourne, Australia with a
   Bachelor''s degree in Commerce (Finance & Economics) from Monash University. '
