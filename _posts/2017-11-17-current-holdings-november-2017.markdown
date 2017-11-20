@@ -6,7 +6,7 @@ categories:
 tags:
 - investments
 - current holdings
-image: https://unsplash.com/photos/JW6r_0CPYec
+image: "/uploads/photo-1494888427482-242d32babc0b.jpeg"
 ---
 
 Hello everybody!
