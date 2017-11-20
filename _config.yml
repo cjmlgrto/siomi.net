@@ -20,7 +20,7 @@ Author: Stephanie Siomos
 Description: 'Hi, I''m Stephanie - a 21-year-old from Melbourne, Australia with a
   Bachelor''s degree in Commerce (Finance & Economics) from Monash University. '
 url: siomi.net
-Avatar URL: "/uploads/DSC_0094.JPG"
+Avatar URL: "/uploads/stephanie.jpg"
 Theme Color: 8095A3
 Twitter URL: https://twitter.com/stephaniesiomos
 Instagram URL: https://instagram.com/stephaniesiomos
@@ -28,6 +28,7 @@ LinkedIn URL: https://linkedin.com/in/stephaniesiomos
 Email Address: stephaniesiomos@gmail.com
 paginate: 5
 paginate_path: "/blog/page:num/"
+permalink: pretty
 plugins:
 - jekyll-paginate
 exclude:

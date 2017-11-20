@@ -14,7 +14,7 @@
 				</div>
 				{% if page['categories'][0] %}
 				<div class="category">
-					Categorized under: <a href="{{ page['categories'][0] | downcase | replace:' ','-' | absolute_url }}">{{ page['categories'][0] }}</a>
+					Categorized under: <a href="{{ page['categories'][0] | downcase | replace:' ','-' | absolute_url }}">{{ page['categories'][0] | capitalize }}</a>
 				</div>
 				{% endif %}
 			</article>
