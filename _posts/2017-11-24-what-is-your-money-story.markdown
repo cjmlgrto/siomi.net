@@ -28,4 +28,4 @@ Sincerely,
 
 Siomi
 
-*Image courtesy of [William Warby](https://www.flickr.com/photos/wwarby/11513424364)*
+>>>Image courtesy of [William Warby](https://www.flickr.com/photos/wwarby/11513424364)
