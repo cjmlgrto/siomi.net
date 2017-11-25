@@ -2,7 +2,7 @@
 	<div class="segment">
 		<img src="{{ site['Avatar URL'] }}" alt="{{ site['Author'] }}"/>
 		<h3>About Me</h3>
-		<p>{{ site['Description'] | markdownify }}</p>
+		{{ site['Description'] | markdownify }}
 	</div>
 	<div class="segment">
 		<h3>Categories</h3>
