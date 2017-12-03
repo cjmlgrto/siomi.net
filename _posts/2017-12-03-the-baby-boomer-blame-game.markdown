@@ -1,0 +1,10 @@
+---
+title: The Baby Boomer Blame Game
+date: 2017-12-03 15:20:00 +11:00
+---
+
+A few days ago, Deutsche Bank announced the return of real GDP to the potential GDP growth rate. During and after the Global Financial Crisis, individuals and corporations were feeling the pinch. This translated into reduced spending, investment, lower interest rates and overall depressed economies. While the return to GDP is good news, it should not overshadow the issues we all face both nationally and globally in regards to employment, housing, levels of national savings and general faith in financial institutions. 
+
+I am not going to pretend like I wear rose coloured glasses and think our economic issues are purely circumstantial. I am the kind of person who believes there is a reason for everything. Every event, both good and bad, must come with some kind of explanation. Perhaps I am this way because I am a logical person, and if there are no explanations and no meanings attached to things, then what are we all doing? With GDP growth finally at pre-GFC levels, maybe this is a good time to ask the question - how did we get here? 
+
+This is not a rhetorical question. If you are too tired, too busy, too lazy and want to stop reading now, I am going to be nice and tell you the answer. We got here because of the baby boomer generation. This is true in both a literal sense - none of us would exist if it were not for someone born in that generation who decided to reproduce - and an economic sense. I am not going to go into detail as all these topics (employment, housing, public and private savings, and financial institutions) could have individual posts alone. Firstly, employment. Australia's unemployment rate is not necessarily a cause for concern, but what is a cause of concern is the level of underemployed people. Many are forced to work in casual or part-time roles as they cannot find permanent, full-time work. 
