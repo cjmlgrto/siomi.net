@@ -1,6 +1,20 @@
 ---
 title: The Baby Boomer Blame Game
 date: 2017-12-03 15:20:00 +11:00
+tags:
+- Alan Greenspan
+- Deutsche Bank
+- Real GDP
+- Potential GDP
+- Housing Affordability
+- Unemployment
+- Dissaving
+- Supply
+- Demand
+- GFC
+image: "/uploads/marie-sophie-tekian-36680.jpg"
+image source name: Sophie-Marie Tékian
+image source URL: https://unsplash.com/@mstekian
 ---
 
 Earlier this month, Deutsche Bank announced the return of real GDP to the potential GDP growth rate. During and after the Global Financial Crisis, individuals and corporations were feeling the pinch (likely caused by losses or decreased liquidity in the market). This translated into reduced spending, investment, lower interest rates and overall depressed economies. While the return to GDP is good news, it should not overshadow the issues we all face both nationally and globally in regards to employment, housing, levels of national savings and general faith in financial institutions.
