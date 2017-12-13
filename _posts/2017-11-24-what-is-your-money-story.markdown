@@ -4,6 +4,8 @@ date: 2017-11-24 22:19:00 +11:00
 tags:
 - blog
 image: "/uploads/11513424364_f48b8cb877_b.jpg"
+image source name: William Warby
+image source URL: https://www.flickr.com/photos/wwarby/11513424364
 ---
 
 Today is a momentous day for me as I have just completed my first week of full-time work on a full-time contract in my "big-girl" job. Considering I celebrated my 21st birthday last week (and the conclusion of my final undergraduate exams) it feels fitting to now be working in a **real** job. However, this past week has also sucked the life out of me for several reasons:
@@ -27,5 +29,3 @@ My financial strategy has matured since my Monopoly days, but I am still an astu
 Sincerely,
 
 Siomi
-
->>>Image courtesy of [William Warby](https://www.flickr.com/photos/wwarby/11513424364)
