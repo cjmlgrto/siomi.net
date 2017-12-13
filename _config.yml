@@ -20,6 +20,8 @@ defaults:
     layout: default
     title: 
     image: 
+    image source name: 
+    image source URL: 
 - scope:
     path: ''
     type: categories
