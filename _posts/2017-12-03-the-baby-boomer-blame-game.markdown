@@ -41,9 +41,7 @@ What were the economic implications of an aging population? Well, the retirees s
 
 All signs seem to point to two events: the normal aging process of all living beings, and the financial sector. And who belongs to the financial sector that largely contributed to the GFC? There is not one answer, but if you look at all the fund managers, politicians, Chairmans of the various Reserve Banks, CEOs and CFOs, most have one thing in common: they are of the Baby Boomer generation, who are now retiring at a rapidly increasing rate.
 
-In 2007, we had the oncoming of the GFC.
-
-In 2017, we face the beginning of a different crisis: the oncoming of the Baby Boomer retirees.
+In 2007, we had the oncoming of the GFC. In 2017, we face the beginning of a different crisis: the oncoming of the Baby Boomer retirees.
 
 Sincerely,
 
