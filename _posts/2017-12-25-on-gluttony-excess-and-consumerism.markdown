@@ -20,8 +20,8 @@ I think we tend to over estimate how many things we require to live. We keep bui
 
 A good place to begin is by asking yourself what items you truly need in life, and by asking the same of others. Once armed with this knowledge, follow through and act on it. Sometimes we let our own egos drive us when purchasing gifts for others. We think that by getting them X good, they will be impressed by how much money we have. Alternatively, some people may operate in a fashion where they believe they can demonstrate their appreciation or love for a person by showing up with an extremely lavish gift. This kind of display makes you wonder whether such people have ever actually verbalised their appreciation/love, or whether they are of the mentality that the item will say it for them. Unfortunately, shiny gift boxes do not have voices.
 
-It is now 11:35pm on Christmas Day, and I think what I am asking is for people to practice a little more consideration and care. Be thoughtful in what you purchase and what you ask for. Recognise that you do not need to keep stuffing yourself with food, or your home with things. If more people in the world cared as much about say, knowledge acquisition, as they did about luxury goods acquisition, the world may very well be a very different place....
+It is now 11:35pm on Christmas Day, and I think what I am asking is for people to practice a little more consideration and care. Be thoughtful in what you purchase and what you ask for. Try to avoid buying **literal shit** that will end up in landfill. Recognise that you do not need to keep stuffing yourself with food, or your home with things. If more people in the world cared as much about say, knowledge acquisition, as they did about luxury goods acquisition, the world may very well be a very different place....
 
 Sincerely,
 
-Siomi.
+Siomi
