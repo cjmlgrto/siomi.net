@@ -1,6 +1,9 @@
 ---
 title: On Gluttony, Excess and Consumerism
 date: 2017-12-25 22:51:00 +11:00
+image: "/uploads/caley-dimmock-442468.jpg"
+image source name: Christmas
+image source URL: https://unsplash.com/photos/_HCpwe1-Prc
 ---
 
 I guess it may not be the smartest idea to begin this post on gluttony, excess and consumerism by telling you that I am currently stuffing my face with alcohol-free rum balls, but it is 10:55pm on Christmas Day and I need something to keep me going. 
