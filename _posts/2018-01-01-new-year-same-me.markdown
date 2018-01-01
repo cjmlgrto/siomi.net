@@ -11,7 +11,7 @@ image source name: Hello I'm Nik
 image source URL: https://unsplash.com/photos/MAgPyHRO0AA
 ---
 
-There is a very popular method of goal setting referred to as the **SMART** criteria. Originally pioneered by George T. Doran in the 1980s, the **SMART** method was drilled into me at university. The criteria are as follows:
+There is a very popular method of goal setting referred to as the **[SMART](https://www.projectsmart.co.uk/smart-goals.php)**[ criteria](https://www.projectsmart.co.uk/smart-goals.php). Originally pioneered by George T. Doran in the 1980s, the **SMART** method was drilled into me at university. The criteria are as follows:
 
 **S**pecific, **M**easurable, **A**ssignable, **R**ealistic, **T**ime-related.
 
