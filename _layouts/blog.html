@@ -12,7 +12,7 @@
 								<div class="blurb">
 									<h1>{{ post['title'] }}</h1>
 									<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
-									<p>{{ post['excerpt'] | truncatewords: 30 }}</p>
+									<p>{{ post['excerpt'] | truncatewords: 30 | strip_html }}</p>
 								</div>
 							</article>
 						</a>
