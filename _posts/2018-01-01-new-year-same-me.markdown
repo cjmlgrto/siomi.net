@@ -6,6 +6,8 @@ tags:
 - goals
 - SMART
 - '2018'
+- crypto
+- myers-briggs
 image: "/uploads/hello-i-m-nik-281498.jpg"
 image source name: Hello I'm Nik
 image source URL: https://unsplash.com/photos/MAgPyHRO0AA
@@ -25,7 +27,7 @@ Perhaps the reason why New Year's resolutions are so popular is because they len
 
 4. Reconnect with my hobbies. While I am quite devoted to my time at the gym, I would like to cook more, watch more documentaries, and read more books. It is likely that I will need to schedule in specific times in my diary for each hobby.
 
-5. Take care of myself more. I am already an introverted person and I enjoy my own company - if anything I think I am already very self-indulgent! That said, in 2018 I would like to look after myself mentally, physically, and emotionally. Maybe I will practice meditation or positive self-talk. I am yet to figure this out 100%, but I will try to learn.
+5. Continue learning about different securities. There are so many different securities and investment vehicles out there for people to put their money into. I feel I have just scratched the surface, and I would love to continue learning more! I also think it would be valuable to fully understand and appreciate each mechanism's role in the greater economic scheme. Looking at you, cryptocurrencies!
 
 6. Call out people if they are wrong and stand up for myself. This may be in situations where I feel like I am being disrespected,  or if people are having a discussion that is floating ideas that are not fair to a particular group of people. I know the term "social justice warrior" gets thrown around a lot, but I think we all owe each other a bit more respect, and some people do not seem to know what that means. They need to be taught. I am their teacher.
 
