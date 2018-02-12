@@ -1,6 +1,7 @@
 ---
 title: Suffering and joy, what is lost and found
 date: 2017-12-31 18:02:00 +11:00
+published: false
 image: "/uploads/tom-barrett-369215.jpg"
 image source name: Tom Barrett
 image source URL: https://unsplash.com/photos/hvvRg72aXCw
@@ -14,7 +15,7 @@ At work, I find myself doing comparisons for clients. The usual layout is **LOSS
 
 **GAIN:** A Bachelor's Degree, a full time position in the finance sector, life insurance (to complement my newfound constant awareness of my own mortality), a second-hand 22'' iMac. I have a greater appreciation for my mother (she truly is the best), an ability to lift heavy things and hence an increase in muscle mass, and a penchant for listening to Ja Rule and 50 Cent (then comparing both artists and reading up on the Murder Inc vs. G Unit feud). I have also learned a lot more about different financial instruments and the finance sector in general. It is quite amazing how much information your brain can retain.
 
-**MAINTAIN:** Many materialistic things like my car, books, jewelry, etc. I have generally maintained the same interests and hobbies. This is probably a good time to note that I have also mainted the same overall weight.
+**MAINTAIN:** Many materialistic things like my car, books, jewelry, etc. I have generally maintained the same interests and hobbies. This is probably a good time to note that I have also maintained the same overall weight.
 
 It is undeniable for me that it feels good to close this chapter.
 
