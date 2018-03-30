@@ -2,7 +2,6 @@
 title: The Elusive Money Tree
 date: 2018-03-30 22:12:00 +11:00
 categories:
-- blog
 - Secret Shames
 tags:
 - ecommerce
