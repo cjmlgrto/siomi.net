@@ -1,8 +1,6 @@
 ---
 title: The Elusive Money Tree
 date: 2018-03-30 22:12:00 +11:00
-categories:
-- secret shames
 tags:
 - ecommerce
 - Taobao
