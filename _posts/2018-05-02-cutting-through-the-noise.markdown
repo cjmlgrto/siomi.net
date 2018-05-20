@@ -1,6 +1,9 @@
 ---
 title: Cutting Through The Noise
 date: 2018-05-02 19:28:00 +10:00
+image: "/uploads/abi-ismail-383794-unsplash.jpg"
+image source name: Abi Ismail
+image source URL: https://unsplash.com/photos/fzpsFoatUUo
 ---
 
 I have recently started following a female commodities trader on Twitter by the name of [@chigrl](http://twitter.com/chigrl). I like her because of her humour, her awareness of how global events impact commodity prices, and her dedication to interacting with other individuals on social media. Essentially, she is everything I aspire to be in 15 years' time. What I like most about @chigrl's tweets are her little nuggets of wisdom that are offered along the way. She discourages grandiose speculative trading. She encourages her followers to face adversity head-on, which is particularly valuable advice if you are a day trader having a bad week. She believes in renewable energy, despite the fact that her work largely revolves around fossil fuels. She is sensible in the way she talks about trading and financial markets. 
