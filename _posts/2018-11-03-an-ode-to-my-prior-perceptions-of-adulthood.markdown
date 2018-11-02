@@ -40,3 +40,7 @@ All these things aside, I think the most valuable thing I have learned is to be 
 ___________________________________________________________
 
 Mission accomplished: I have grown up tremendously quickly. This past year has been especially transformative in both a professional and personal sense. In many ways, I feel like my destiny has been fulfilled and all my dreams have come true. However, there is actually a great deal of sadness that comes with that realisation. I sit here in the early hours of a Saturday morning and ponder what is next. 
+
+Sincerely,
+
+Siomi
