@@ -1,6 +1,9 @@
 ---
 title: Who Am I & How Did I End Up Here? 2019.
 date: 2019-01-10 02:21:00 +11:00
+image: "/uploads/6791623514_3c29e9c4e2_z.jpg"
+image source name: Stephanie Siomos on Flickr
+image source URL: https://www.flickr.com/photos/ssiomos/with/6791623514/
 ---
 
 The other day I sent out an email dated 8/1/2018. It took me 24 hours to realise how wrong that was.
