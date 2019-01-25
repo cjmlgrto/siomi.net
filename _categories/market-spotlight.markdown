@@ -1,4 +1,4 @@
 ---
-title: Market Musings
+title: Market Spotlight
 ---
 
