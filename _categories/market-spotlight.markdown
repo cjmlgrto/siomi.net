@@ -1,4 +1,4 @@
 ---
-title: Finance
+title: Market Musings
 ---
 
