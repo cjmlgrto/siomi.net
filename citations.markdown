@@ -15,8 +15,8 @@ Skella, J 2017, 'Here's a Blockchain Explanation Your Parents Could Understand',
 Galeon, D 2017, 'Estonia's Plans To Build A Digital Nation Using Blockchain Are Taking Shape', **Futurism**, viewed January 1 2018.
 
 **Personal Recommendations**
-[Jared Dillian ](http://twitter.com/dailydirtnap)
-[Steve Saretsky](http://twitter.com/stevesaretsky)
-[The Spectator Index](http://twitter.com/spectatorindex)
-[Chi Girl](http://twitter.com/chigrl)
-[Sunchartist](http://twitter.com/sunchartist)
+[Jared Dillian](http://twitter.com/dailydirtnap) 
+[Steve Saretsky](http://twitter.com/stevesaretsky) 
+[The Spectator Index](http://twitter.com/spectatorindex) 
+[Chi Girl](http://twitter.com/chigrl) 
+[Sunchartist](http://twitter.com/sunchartist) 
