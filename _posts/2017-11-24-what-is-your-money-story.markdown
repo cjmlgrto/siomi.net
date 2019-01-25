@@ -1,6 +1,8 @@
 ---
 title: What Is Your Money Story?
 date: 2017-11-24 22:19:00 +11:00
+categories:
+- market spotlight
 tags:
 - blog
 image: "/uploads/11513424364_f48b8cb877_b.jpg"
