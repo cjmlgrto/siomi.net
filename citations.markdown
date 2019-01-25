@@ -1,5 +1,5 @@
 ---
-title: Citations
+title: Links
 permalink: "/citations/"
 layout: default
 ---
