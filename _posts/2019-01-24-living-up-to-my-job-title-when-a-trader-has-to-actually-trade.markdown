@@ -25,7 +25,9 @@ You have multiple positions to liquidate. How do you prioritise them? Do you get
 
 
 *I hope my second trade has a better outcome than my first.*
-Well, I cannot pinpoint exactly when my second trade was, but I probably lost money on it. I am not bothered by that fact. I am still learning how to manage my positions, my emotions, my expectations. In the meantime, I am grateful that I can leave it to the computers.
+Well, I cannot pinpoint exactly when my second trade was, but I probably lost money on it. I am not bothered by that fact. There was one time I made $17,000, which was a fun experience until I got cut down for it, but that is Australian Tall Poppy Syndrome for you. 
+
+I am still learning how to manage my positions, my emotions, my expectations. In the meantime, I am grateful that I can leave it to the computers.
 
 Sincerely,
 
