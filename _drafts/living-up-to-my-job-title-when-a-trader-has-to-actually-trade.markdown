@@ -3,6 +3,7 @@ title: When a Trader Has To (Actually) Trade
 date: 2019-01-24 04:26:00 +11:00
 categories:
 - market musings
+image: "/uploads/Dux6RpPU8AA33Bi.jpg-large.jpeg"
 ---
 
 On 30th January 2018, I wrote:
@@ -23,7 +24,12 @@ The market is moving against you, and it is your fault. Perhaps it is a matter o
 You have multiple positions to liquidate. How do you prioritise them? Do you get the smallest one over and done with first, or do you start with the largest one, edging in little by little, interspersing the big trades with the little ones in between?
 
 
+*I hope my second trade has a better outcome than my first.*
+Well, I cannot pinpoint exactly when my second trade was, but I probably lost money on it. I am not bothered by that fact. I am still learning how to manage my positions, my emotions, my expectations. In the meantime, I am grateful that I can leave it to the computers.
 
+Sincerely,
+
+Siomi 
 
 
  
