@@ -2,7 +2,7 @@
 title: My First Trade
 date: 2018-01-30 21:12:00 +11:00
 categories:
-- market spotlight
+- market musings
 image: "/uploads/TRADE_L2_Sub-Pillar_Trading_Graphs_o_tcm5044-9557.jpg"
 image source name: Nasdaq
 image source URL: http://business.nasdaq.com/media/TRADE_L2_Sub-Pillar_Trading_Graphs_o_tcm5044-9557.jpg
