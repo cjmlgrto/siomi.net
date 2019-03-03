@@ -2,7 +2,7 @@
 title: 'Current Holdings: November 2017'
 date: 2017-11-17 15:46:00 +11:00
 categories:
-- market spotlight
+- market musings
 tags:
 - investments
 - current holdings

@@ -3,7 +3,7 @@ title: Cutting Through The Noise
 date: 2018-05-02 19:28:00 +10:00
 published: false
 categories:
-- market spotlight
+- market musings
 image: "/uploads/abi-ismail-383794-unsplash.jpg"
 image source name: Abi Ismail
 image source URL: https://unsplash.com/photos/fzpsFoatUUo
