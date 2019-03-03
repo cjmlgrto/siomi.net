@@ -15,11 +15,11 @@ There is a lot to unpack here.
 
 But the point of this is not about the power of hindsight. It is about what happens when I have to literally do my job: when a trader has to trade. 
 
-See, my job is unlike that of a traditional trading analyst because I work at a quantitative fund. It's all machine learning and artificial intelligence. When we are right in the thick of actual trading, humans take a backseat - we let the computers handle it. However, there can be some times where the adults get to step in, which I take as my opportunities to practice (but can you really call it practice if it's real money and real markets?!). 
+See, my job is unlike that of a traditional trading analyst because I work at a quantitative fund. It's all machine learning and artificial intelligence. When we are right in the thick of actual trading, humans take a backseat - we let the computers handle it. However, there can be some times where the adults get to step in, which I take as opportunities to practice (but can you really call it practice if it's real money and real markets?!). 
 
 Trading is an emotional thing. You are faced with many trade-offs that are incredibly time sensitive. 
 The market is moving against you, and it is not your fault. Damn it! Do you wait in the hope that it moves in your favour? Or do you try and execute the trade as timely as possible to avoid being exposed to further losses if the market continues to slip away?
-The market is moving against you, and it is your fault. Liquidity is thin. You know your boss is probably going to yell at you for this later. Do you try executing as quickly as possible - rip off the bandaid! - or do you drip feed the market, little by little, trying to make up for the damage you have done?
+The market is moving against you, and it is your fault. Perhaps it is a matter of liquidity. Perhaps it is a matter of your brokers not internalising your flow. You know your boss is probably going to yell at you for this later. Do you try executing as quickly as possible - rip off the bandaid! - or do you drip feed the market, little by little, trying to make up for the damage you have done?
 You have multiple positions to liquidate. How do you prioritise them? Do you get the smallest one over and done with first, or do you start with the largest one, edging in little by little, interspersing the big trades with the little ones in between?
 
 
