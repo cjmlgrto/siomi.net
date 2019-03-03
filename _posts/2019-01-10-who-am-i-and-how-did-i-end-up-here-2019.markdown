@@ -8,7 +8,8 @@ image source URL: https://www.flickr.com/photos/ssiomos/with/6791623514/
 
 The other day I sent out an email dated 8/1/2018. It took me 24 hours to realise how wrong that was.
 
-Last year I wrote a long piece about my SMART goals for 2018. I was trying to be more grown-up and rational about my goals. I was also trying to write the blog post in a way that now seems boring and devoid of any streak of my personality. In celebration of my 'voice' and out of respect for my high school English teachers who always encouraged my writing, I have decided to scrap that sterile version of my internet self and present to you my true thoughts on the past year.
+Last year I wrote a long piece about my SMART goals for 2018. I was trying to be more
+rational about my goals. Looking back now, that post seems boring and devoid of any streak of my personality. In celebration of my 'voice' and out of respect for my high school English teachers who always encouraged my writing, I have decided to scrap that sterile version of my internet self and present to you my true thoughts on the past year.
 
 Things I learned in 2018:
 * Petrol station coffee is my favourite kind of coffee. I have never tolerated caffeine well, so their watered-down product works well for me. Not to mention it is very cheap. My goal in 2019 is to use my reusable coffee cup more often to cut back on the waste I produce when I purchase them.
