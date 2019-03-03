@@ -9,7 +9,6 @@ image source name: Snapshot of a slick but completely unrelated and semi-meaning
 ---
 
 [On 30th January 2018, I wrote:](http://siomi.net/market%20musings/2018/01/30/my-first-trade/)
-
 *"I am convinced that I will remember the day that I made my first trade for the rest of my life. It may have been more impressive if I was a graduate foreign exchange trader, or if I was shorting some obscure stock that was about to plummet in value. Unfortunately, like the rest of the general population, my first trade was a buy instruction for Bitcoin."* 
 
 There is a lot to unpack here.
