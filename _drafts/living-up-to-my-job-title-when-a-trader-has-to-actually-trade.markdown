@@ -5,3 +5,26 @@ categories:
 - market musings
 ---
 
+On 30th January 2018, I wrote:
+*"I am convinced that I will remember the day that I made my first trade for the rest of my life. It may have been more impressive if I was a graduate foreign exchange trader, or if I was shorting some obscure stock that was about to plummet in value. Unfortunately, like the rest of the general population, my first trade was a buy instruction for Bitcoin."* 
+
+There is a lot to unpack here.
+1. As someone who is now an analyst on a foreign exchange trading desk, I feel that I must have had some kind of premonition. In January 2018 I dreamed of being a "graduate foreign exchange trader" and by June, that was me! 
+2. I am not a die-hard fan of cryptocurrencies. Sure, I see the value in blockchain technology, and I can somewhat empathise with those who see cryptocurrencies as being "the future". What do people expect to happen after 10 years of QE and macroeconomic policy that has manipulated conventional currencies? Personally, I see gold as being more of the anti-fiat asset than cryptos, but each to their own.
+3. More on Bitcoin. Despite what I know now, and despite the information I now have access to that I did not have prior, I probably still would have given trading a crack via the Bitcoin route. Why? Well, execution costs are low. You can trade successfully (almost) solely using technical analysis as there are very few other market forces driving the value. I think it is an accessible way for people to learn how to buy and sell something repeatedly.
+
+But the point of this is not about the power of hindsight. It is about what happens when I have to literally do my job: when a trader has to trade. 
+
+See, my job is unlike that of a traditional trading analyst because I work at a quantitative fund. It's all machine learning and artificial intelligence. When we are right in the thick of actual trading, humans take a backseat - we let the computers handle it. However, there can be some times where the adults get to step in, which I take as my opportunities to practice (but can you really call it practice if it's real money and real markets?!). 
+
+Trading is an emotional thing. You are faced with many trade-offs that are incredibly time sensitive. 
+The market is moving against you, and it is not your fault. Damn it! Do you wait in the hope that it moves in your favour? Or do you try and execute the trade as timely as possible to avoid being exposed to further losses if the market continues to slip away?
+The market is moving against you, and it is your fault. Liquidity is thin. You know your boss is probably going to yell at you for this later. Do you try executing as quickly as possible - rip off the bandaid! - or do you drip feed the market, little by little, trying to make up for the damage you have done?
+You have multiple positions to liquidate. How do you prioritise them? Do you get the smallest one over and done with first, or do you start with the largest one, edging in little by little, interspersing the big trades with the little ones in between?
+
+
+
+
+
+ 
+
