@@ -19,3 +19,7 @@ I am thinking of trying out a new investment strategy. Something to run alongsid
 My current favourite comfort-food meal is as follows: one piece of toast, cut in half. Vegemite on one half, raspberry jam on the other. Spread the toppings right to the edge of the crusts. Accompanied by a mug of tea with one teaspoon of sugar, immensely milky. 
 
 2019 has been the most difficult year of my life. Similar to previous musings following Christmases past, I am in a state of mourning. Quite certainly, mourning those who we lost this year, but also mourning the life I used to have. There are waves of grief that follow immense trauma. I remember the first wave. My mother's surgeon asked me if I had any questions for him, and I broke down in tears. I remember the second wave. It was a long time after, possibly six months even, and I had one week of foul behaviour and mood and tears. This is the third wave. The holiday season, where you are immersed in family and tradition, and the realisation that this year's Christmas story could have had a very different ending. My gratitude outweighs my sadness, but it is still there. 
+
+Sincerely,
+
+Siomi
