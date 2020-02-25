@@ -3,9 +3,9 @@ title: The Making of a Capitalist
 date: 2020-02-25 18:29:00 +11:00
 categories:
 - market musings
-image: "/uploads/farp,small,wall_texture,product,750x1000.u1.jpg"
+image: "/uploads/800px-CheHigh.jpg"
 image source name: Che Guevara
-image source URL: https://www.redbubble.com/people/tomsredbubble/works/5807007-che-guevara-rebel-revolution-marxist-revolutionary-cuba-power-to-the-people-black-on-red?p=art-print
+image source URL: https://en.wikipedia.org/wiki/Che_Guevara
 ---
 
 I need to start this by saying that economics is messy. It is a discipline of wildly varying opinions, many of which are never implemented into practice, but are heavily relied upon in the court of public opinion. In 2019, Modern Monetary Theory was a popular concept that was a fantastic example of this. Developed by economists, it entered the mainstream vernacular as political and financial commenters debated on how Central Banks worldwide could stimulate economies, similar to how they implemented quantitative easing. Some believed that MMT could eradicate student debt in places like the US, where higher education loans are reaching fever pitch. Personally, I do not agree with such sentiment, as it discounts the diligence and work done by students who have dedicated the time and financial resources to reduce their loan obligations. But this is not really about that. This is about how I became a capitalist. 
