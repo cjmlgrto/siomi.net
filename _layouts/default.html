@@ -1,29 +1,26 @@
 {% include head.html %}
 <body>
 	{% include header.html %}
-	<div class="split">
-		<main>
-			<article>
-				<div class="headline">
-					<img src="{{ page['image'] }}"/>
-					{% if page['image source name'] %}
-						<span class="source">Photo: {% if page['image source URL'] %}<a href="{{ page['image source URL'] }}">{% endif %}{{ page['image source name'] }}{% if page['image source URL'] %}</a>{% endif %}</span>
-					{% endif %}
-					<h1>{{ page['title'] }}</h1>
-					<time>{{ page['date'] | date: "%B %-d %Y" }}</time>
-				</div>
-				<div class="content">
-					{{ content }}
-				</div>
-				{% if page['categories'][0] %}
-				<div class="category">
-					Categorized under: <a href="/category/{{ page['categories'][0] | downcase | replace:' ','-' }}">{{ page['categories'][0] | capitalize }}</a>
-				</div>
+	<main>
+		<article>
+			<div class="headline">
+				<h1>{{ page['title'] }}</h1>
+				<time>{{ page['date'] | date: "%B %-d %Y" }}</time>
+				{% if page['image source name'] %}
+					<span class="source">Photo: {% if page['image source URL'] %}<a href="{{ page['image source URL'] }}">{% endif %}{{ page['image source name'] }}{% if page['image source URL'] %}</a>{% endif %}</span>
 				{% endif %}
-			</article>
-		</main>
-		{% include sidebar.html %}
-	</div>
+				<img src="{{ page['image'] }}"/>
+			</div>
+			<div class="content">
+				{{ content }}
+			</div>
+			{% if page['categories'][0] %}
+			<div class="category">
+				Categorized under: <a href="/category/{{ page['categories'][0] | downcase | replace:' ','-' }}">{{ page['categories'][0] | capitalize }}</a>
+			</div>
+			{% endif %}
+		</article>
+	</main>
 	{% include footer.html %}
 </body>
 {% include foot.html %}

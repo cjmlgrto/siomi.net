@@ -1,35 +1,32 @@
 {% include head.html %}
 <body>
 	{% include header.html %}
-	<div class="split">
-		<main>
-			{% assign desc = content | size %}
-			{% if desc > 1 %}
-				<h1>{{ page['title'] }}</h1>
-				<p>{{ content }}</p>
-			{% endif %}
-			<ul>
-				{% assign category = page['title'] | downcase %}
-				{% for post in site['posts'] %}
-					{% if post['categories'][0] == category %}
-						<li>
-							<a href="{{ post['url'] }}" title="{{ post['title'] }}">
-								<article>
-									<div class="preview" style="background-image: url({{ post['image'] }});"></div>
-									<div class="blurb">
-										<h1>{{ post['title'] }}</h1>
-										<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
-										<p>{{ post['excerpt'] | truncatewords: 30 | strip_html }}</p>
-									</div>
-								</article>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
-		</main>
-		{% include sidebar.html %}
-	</div>
+	<main>
+		{% assign desc = content | size %}
+		{% if desc > 1 %}
+			<h1>{{ page['title'] }}</h1>
+			<p>{{ content }}</p>
+		{% endif %}
+		<ul>
+			{% assign category = page['title'] | downcase %}
+			{% for post in site['posts'] %}
+				{% if post['categories'][0] == category %}
+					<li>
+						<a href="{{ post['url'] }}" title="{{ post['title'] }}">
+							<article>
+								<div class="preview" style="background-image: url({{ post['image'] }});"></div>
+								<div class="blurb">
+									<h1>{{ post['title'] }}</h1>
+									<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
+									<p>{{ post['excerpt'] | truncatewords: 30 | strip_html }}</p>
+								</div>
+							</article>
+						</a>
+					</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</main>
 	{% include footer.html %}
 </body>
 {% include foot.html %}
