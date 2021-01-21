@@ -1,3 +1,6 @@
+/* Base Styles */
+/* ---------------------------------- */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -35,10 +38,11 @@ html {
 }
 
 body {
-	padding: 1rem;
 	margin: 0 auto;
-	max-width: var(--width-content);
 }
+
+/* Typography */
+/* ---------------------------------- */
 
 ::selection {
 	background-color: rgba(229,114,138,.25);
@@ -102,15 +106,19 @@ time {
 	font-family: var(--type-secondary);
 }
 
+/* Components */
+/* ---------------------------------- */
+
 header {
 	text-align: center;
+	margin: 1rem;
 }
 
 .logo {
 	color: #444;
 	display: block;
 	max-width: 12rem;
-	margin: 0 auto 1rem;
+	margin: 0 auto;
 	border-bottom: none;
 	transition: all 0.25s cubic-bezier(.06, .53, .41, .89);
 }
@@ -125,12 +133,18 @@ header {
 
 .logo:hover {
 	color: var(--color-secondary);
+	-webkit-animation: disco 0.8s alternate;
+	-moz-animation: disco 0.8s alternate;
+	-o-animation: disco 0.8s alternate;
+	animation: disco 0.8s alternate;
 }
 
+header .logo {
+	margin-bottom: 1rem;
+} 
+
 nav {
-	padding: 0.5rem 0;
-	border-top: 1px solid var(--color-separators);
-	border-bottom: 1px solid var(--color-separators);
+	margin: 0 auto;
 }
 
 .pagination {
@@ -144,15 +158,16 @@ nav ul {
 }
 
 nav li {
+	display: inline-block;
 	font-size: 0.8rem;
-	margin-bottom: 1rem;
+	margin-right: 2rem;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-family: var(--type-secondary);
 }
 
 nav li:last-child {
-	margin-bottom: 0;
+	margin-right: 0;
 }
 
 nav a {
@@ -165,11 +180,23 @@ nav a:hover {
 }
 
 nav .current {
-	color: #000;
+	color: var(--color-secondary);
 }
 
+footer {
+	padding: 1rem;
+	border-top: 1px solid var(--color-separators);
+} 
+
+footer .logo {
+	margin-top: 2rem;
+}
+
+/* Layout */
+/* ---------------------------------- */
+
 main {
-	padding: 1rem 0;
+	padding: 1rem;
 }
 
 .headline {
@@ -271,9 +298,13 @@ main > ul > li > a > article {
 }
 
 .socials li {
-	margin: 0 1rem;
+	margin-right: 1rem;
 	display: inline-block;
 	vertical-align: middle;
+}
+
+.socials li:last-child {
+	margin-right: 0;
 }
 
 .socials a {
@@ -285,10 +316,6 @@ main > ul > li > a > article {
 
 .socials a:hover, .socials a:active {
 	color: var(--color-secondary);
-	-webkit-animation: disco 0.8s alternate;
-	-moz-animation: disco 0.8s alternate;
-	-o-animation: disco 0.8s alternate;
-	animation: disco 0.8s alternate;
 }
 
 .socials a svg g {
@@ -327,23 +354,51 @@ main > ul > li > a > article {
 	border-bottom-color: currentColor;
 }
 
-@media (min-width: 720px) {
+/* Media Queries */
+/* ---------------------------------- */
+
+@media (min-width: 960px) {
+	html {
+		font-size: 112.5%;
+	}	
+
 	body {
-		padding: 2rem;
 	}
-
-	.logo {
-		margin: 0 auto 2rem;
-	}
-
-	nav ul { 
+	
+	header {
 		display: flex;
-		list-style: none;
 		justify-content: space-between;
+		align-items: center;
+		padding: 1rem 1rem 0;
+		max-width: var(--width-content);
+		margin: 0 auto;
 	}
-
-	nav li {
-		margin-bottom: 0;
+	
+	header nav {
+		order: 0;
+		margin: 0;
+		width: 33%;
+	}
+	
+	header nav ul {
+		text-align: left;
+	}
+	
+	header .logo {
+		order: 1;
+		margin: 0;
+		width: 33%;
+	}
+	
+	header .socials {
+		order: 2;
+		margin: 0;
+		width: 33%;
+		text-align: right;
+	}
+	
+	footer {
+		margin-bottom: 4rem;
 	}
 
 	main {
@@ -352,6 +407,10 @@ main > ul > li > a > article {
 
 	main > ul > li > a > article {
 		align-items: flex-start;
+	}
+	
+	.content {
+		max-width: 100%;
 	}
 
 	.blurb h1 {
@@ -371,26 +430,6 @@ main > ul > li > a > article {
 
 	.preview {
 		min-height: 15rem;
-	}
-}
-
-@media (min-width: 800px) {
-	html {
-		font-size: 112.5%;
-	}
-
-	.content {
-		max-width: 100%;
-	}
-}
-
-@media (max-width: 720px) and (min-width: 480px) {
-	nav { 
-		padding-bottom: 0; 
-	}
-
-	nav ul { 
-		column-count: 2; 
 	}
 }
 
