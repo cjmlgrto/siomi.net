@@ -16,7 +16,8 @@ figure, img, video, audio, embed, .embed {
 }
 
 :root {
-	--width-content: 1200px;
+	--width-site: 1200px;
+	--width-content: 720px;
 	--color-primary: #8095A3;
 	--color-secondary: #E5728A;
 	--color-tertiary: #67A1CA;
@@ -195,16 +196,40 @@ footer .logo {
 /* Layout */
 /* ---------------------------------- */
 
-main {
-	padding: 1rem;
-}
-
 .headline {
+	background-color: var(--color-primary);
 	margin-bottom: 1rem;
+	text-align: center;
 }
 
-.headline h1 {
-	margin-top: 0;
+.headline-meta {
+	padding: 2rem 1rem;
+}
+
+.headline-meta h1 {
+	font-size: 2.5rem;
+	color: white;
+}
+
+.headline-meta time {
+	color: white;
+	opacity: 0.8;
+}
+
+.headline-photo {
+	height: auto;
+	width: 100%;
+	padding-top: 110%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.content {
+	padding: 1rem;
+	max-width: var(--width-content);
+	margin: 0 auto;
+	text-align: justify;
 }
 
 main > ul {
@@ -336,22 +361,27 @@ main > ul > li > a > article {
 
 .category {
 	font-size: 0.8rem;
-	padding-top: 0.5rem;
-	border-top: 1px solid var(--color-separators);
+	padding: 1rem;
+	max-width: var(--width-content);
+	margin: 0 auto;
 }
 
 .source {
-	display: block;
-	margin-top: -1rem;
-	margin-bottom: 1rem;
 	font-size: 0.8rem;
+	display: inline-block;
+	font-family: var(--type-secondary);
 	width: 100%;
-	text-align: right;
-	color: #ccc;
+	color: white;
+	opacity: 0.6;
+	margin-top: 1rem;
 }
 
 .source a {
 	border-bottom-color: currentColor;
+}
+
+.source a:hover {
+	color: inherit;
 }
 
 /* Media Queries */
@@ -369,8 +399,8 @@ main > ul > li > a > article {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 1rem 1rem 0;
-		max-width: var(--width-content);
+		padding: 1rem 1rem;
+		max-width: var(--width-site);
 		margin: 0 auto;
 	}
 	
@@ -398,19 +428,33 @@ main > ul > li > a > article {
 	}
 	
 	footer {
+		margin-top: 4rem;
 		margin-bottom: 4rem;
 	}
-
-	main {
-		width: 100%;
+	
+	.headline {
+		display: flex;
+		align-items: center;
+		max-width: 1800px;
+		margin: 0 auto 2rem;
+	}
+	
+	.headline-meta {
+		width: 50%;
+		padding: 4rem;
+	}
+	
+	.headline-meta h1 {
+		font-size: 3.5rem;
+	}
+	
+	.headline-photo {
+		width: 50%;
+		padding-top: 55%;
 	}
 
 	main > ul > li > a > article {
 		align-items: flex-start;
-	}
-	
-	.content {
-		max-width: 100%;
 	}
 
 	.blurb h1 {
@@ -420,12 +464,6 @@ main > ul > li > a > article {
 
 	.blurb p {
 		display: block;
-	}
-
-	.category {
-		margin-top: 3.5rem;
-		margin-bottom: -3.5rem;
-		width: calc(100% + 1rem);
 	}
 
 	.preview {
