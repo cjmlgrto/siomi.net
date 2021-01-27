@@ -1,27 +1,29 @@
 {% include head.html %}
 <body>
 	{% include header.html %}
-	<main>
-		{% assign desc = content | size %}
-		{% if desc > 1 %}
-			<h1>{{ page['title'] }}</h1>
-			<p>{{ content }}</p>
-		{% endif %}
+	{% assign desc = content | size %}
+	{% if desc > 0 %}
+		<div class="featured">
+			<div class="featured-meta">
+				<h1>{{ page['title'] }}</h1>
+			</div>
+		</div>
+	{% endif %}
+	<main class="posts">
 		<ul>
 			{% assign category = page['title'] | downcase %}
 			{% for post in site['posts'] %}
 				{% if post['categories'][0] == category %}
 					<li>
-						<a href="{{ post['url'] }}" title="{{ post['title'] }}">
-							<article>
-								<div class="preview" style="background-image: url({{ post['image'] }});"></div>
-								<div class="blurb">
-									<h1>{{ post['title'] }}</h1>
-									<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
-									<p>{{ post['excerpt'] | truncatewords: 30 | strip_html }}</p>
-								</div>
-							</article>
-						</a>
+						<article>
+							<div class="preview" style="background-image: url({{ post['image'] }});"></div>
+							<div class="blurb">
+								<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
+								<h1>{{ post['title'] }}</h1>
+								<p>{{ post['excerpt'] | truncatewords: 20 | strip_html }}</p>
+								<a href="{{ post['url'] }}" class="button">Continue Reading</a>
+							</div>
+						</article>
 					</li>
 				{% endif %}
 			{% endfor %}

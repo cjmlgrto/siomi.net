@@ -10,6 +10,9 @@
 					{% if page['image source name'] %}
 						<span class="source">Photo: {% if page['image source URL'] %}<a href="{{ page['image source URL'] }}">{% endif %}{{ page['image source name'] }}{% if page['image source URL'] %}</a>{% endif %}</span>
 					{% endif %}
+					{% if page['summary'] %}
+						<p>{{ page['summary'] }}</p>
+					{% endif %}
 				</div>
 				{% if page['image'] %}
 					<div class="headline-photo" style="background-image: url('{{ page['image'] }}')"></div>
