@@ -1,14 +1,3 @@
-	<script type="text/javascript">
-		var m = document.getElementById('menu');
-		var s = m.offsetTop - 0;
-		var h = window.pageYOffset !== undefined;
-		var d = document.documentElement || document.body.parentNode || document.body;
-		var t;
-		window.onscroll = function(e) {
-			t = h ? window.pageYOffset : d.scrollTop;
-			m.className = (t >= s) ? 'stuck' : '';
-		}
-	</script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110082303-1"></script>
 	<script>

@@ -1,27 +1,28 @@
 {% include head.html %}
 <body>
 	{% include header.html %}
-	<div class="split">
-		<main>
-			<ul>
-				{% for post in paginator['posts'] %}
-					<li>
-						<a href="{{ post['url'] }}" title="{{ post['title'] }}">
-							<article>
-								<div class="preview" style="background-image: url({{ post['image'] }});"></div>
-								<div class="blurb">
-									<h1>{{ post['title'] }}</h1>
-									<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
-									<p>{{ post['excerpt'] | truncatewords: 30 | strip_html }}</p>
-								</div>
-							</article>
-						</a>
-					</li>
-				{% endfor %}
-			</ul>
-		</main>
-		{% include sidebar.html %}
+	<div class="featured">
+		<div class="featured-meta">
+			<h1>{{ page['title'] }}</h1>
+		</div>
 	</div>
+	<main class="posts">
+		<ul>
+			{% for post in paginator['posts'] %}
+				<li>
+					<article>
+						<div class="preview" style="background-image: url({{ post['image'] }});"></div>
+						<div class="blurb">
+							<time>{{ post['date'] | date: "%B %-d %Y" }}</time>
+							<h1>{{ post['title'] }}</h1>
+							<p>{{ post['excerpt'] | truncatewords: 20 | strip_html }}</p>
+							<a href="{{ post['url'] }}" class="button">Continue Reading</a>
+						</div>
+					</article>
+				</li>
+			{% endfor %}
+		</ul>
+	</main>
 	{% if paginator['previous_page'] or paginator['next_page'] %}
 	<nav class="pagination">
 		<ul>
