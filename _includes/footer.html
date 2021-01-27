@@ -1,27 +1,7 @@
 <footer>
-	{% include nav.html %}
-	<ul class="socials">
-		<li>
-			<a href="{{ site['Twitter URL'] }}" class="twitter">
-				{% include twitter.svg %}
-			</a>
-		</li>
-		<li>
-			<a href="{{ site['Instagram URL'] }}" class="instagram">
-				{% include instagram.svg %}
-			</a>
-		</li>
-		<li>
-			<a href="{{ site['LinkedIn URL'] }}" class="linkedin">
-				{% include linkedin.svg %}
-			</a>
-		</li>
-		<li>
-			<a href="mailto:{{ site['Email Address'] }}" class="email">
-				{% include email.svg %}
-			</a>
-		</li>
-	</ul>
-
 	<div class="copyright">© {{ site['Author'] }}, unless otherwise specified. <a href="/disclaimer">View disclaimer here</a>.</div>
+	
+	<a href="/" class="logo" title="{{ site['title'] }}">
+		{% include logo.svg %}
+	</a>
 </footer>
