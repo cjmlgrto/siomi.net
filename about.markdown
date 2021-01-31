@@ -1,11 +1,13 @@
 ---
 title: About
 permalink: "/about/"
-layout: default
 image: "/uploads/stephanie.jpg"
 summary: Welcome to my small square of the internet.
+layout: default
 ---
 
-I am a young financial professional working as a trainee Sales Trader in the derivatives space. In my spare time, I sit on the [Enterprise Academy Advisory Board](https://ea.mentonegirls.vic.edu.au) at my alma mater, [Mentone Girls' Grammar School](http://mentonegirls.vic.edu.au). I like technology, books, cars, timepieces, lifting weights, swimming laps, and punk rock, among many other things. 
+Not-quite-reformed algo FX trader, cookie connoisseur, car fanatic, living a life I could have never dreamed of. 
+
+I currently spend my work days on a fixed income desk. In my spare time, I sit on the [Enterprise Academy Advisory Board](https://ea.mentonegirls.vic.edu.au) at my alma mater, [Mentone Girls' Grammar School](http://mentonegirls.vic.edu.au). 
 
 Design by [Carlos Melegrito ](https://carlos-m.com/)
