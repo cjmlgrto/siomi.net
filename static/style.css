@@ -34,11 +34,11 @@ figure, img, video, audio, embed, .embed {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-bg: #111111;
+		--color-bg: #1D1E1F;
 		--color-body: #D6D7D5;
 		--color-meta: #555555;
 		--color-titles: #FFFFFF;
-		--color-separators: #232023;
+		--color-separators: #262626;
 		--color-on-primary: #FFFFFF;
 	}
 }
@@ -495,27 +495,27 @@ footer .logo {
 @-webkit-keyframes disco {
 	0% { color: var(--color-secondary); }
 	25% { color: var(--color-primary); }
-	50% { color: var(--color-secondary); }
+	50% { color: var(--color-titles); }
 	75% { color: var(--color-primary); }
 }
 
 @-moz-keyframes disco {
 	0% { color: var(--color-secondary); }
 	25% { color: var(--color-primary); }
-	50% { color: var(--color-secondary); }
+	50% { color: var(--color-titles); }
 	75% { color: var(--color-primary); }
 }
 
 @-o-keyframes disco {
 	0% { color: var(--color-secondary); }
 	25% { color: var(--color-primary); }
-	50% { color: var(--color-secondary); }
+	50% { color: var(--color-titles); }
 	75% { color: var(--color-primary); }
 }
 
 @keyframes disco {
 	0% { color: var(--color-secondary); }
 	25% { color: var(--color-primary); }
-	50% { color: var(--color-secondary); }
+	50% { color: var(--color-titles); }
 	75% { color: var(--color-primary); }
 }
