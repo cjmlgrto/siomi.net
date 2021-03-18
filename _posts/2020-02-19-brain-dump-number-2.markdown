@@ -1,5 +1,5 @@
 ---
-title: 'Speed Round #2'
+title: 'Brain Dump #2'
 date: 2020-02-19 21:26:00 +11:00
 image: "/uploads/severin-d-yelIlsascr0-unsplash.jpg"
 image source name: Severin D.
