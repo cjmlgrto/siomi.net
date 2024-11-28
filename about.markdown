@@ -8,6 +8,6 @@ layout: default
 
 Not-quite-reformed algo FX trader, pick & mix addict, car fanatic.
 
-I currently spend my work days on a fixed income desk trading listed and unlisted government bonds and corporate credit. At nighttime I stress about wedding planning and annoy my kitten. On the weekends I run for a while, very slowly. 
+I currently spend my work days on a fixed income desk trading and managing portfolios of listed and unlisted government bonds and corporate credit. At nighttime I annoy the two main males in my life: my husband and my kitten. 
 
 Design by the fabulous [Carlos Melegrito](https://carlos-m.com/)
