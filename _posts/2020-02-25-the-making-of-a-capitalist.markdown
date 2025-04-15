@@ -1,6 +1,7 @@
 ---
 title: The Making of a Capitalist
 date: 2020-02-25 18:29:00 +11:00
+published: false
 categories:
 - market musings
 image: "/uploads/800px-CheHigh.jpg"
