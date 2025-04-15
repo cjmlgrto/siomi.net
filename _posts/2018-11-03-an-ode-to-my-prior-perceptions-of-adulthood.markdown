@@ -1,6 +1,7 @@
 ---
 title: An Ode To My Prior Perceptions of Adulthood
 date: 2018-11-03 03:32:00 +11:00
+published: false
 categories:
 - thoughts
 tags:
