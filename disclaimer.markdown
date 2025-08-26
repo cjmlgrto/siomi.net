@@ -1,6 +1,7 @@
 ---
 title: Disclaimer
 permalink: "/disclaimer/"
+published: false
 layout: default
 ---
 
