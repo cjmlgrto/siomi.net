@@ -1,6 +1,7 @@
 ---
 title: GME, BTC, 2020.
 date: 2021-01-30 18:17:00 +11:00
+published: false
 image: "/uploads/martin-ceralde-xceMsVvxcd4-unsplash.jpg"
 image source name: Wall Street Subway Station
 image source URL: https://unsplash.com/photos/xceMsVvxcd4
