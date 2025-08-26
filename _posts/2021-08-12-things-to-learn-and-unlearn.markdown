@@ -1,6 +1,7 @@
 ---
 title: Things to Learn and Unlearn
 date: 2021-08-12 14:31:00 +10:00
+published: false
 image: "/uploads/jordan-nix-biX8sBfNcPc-unsplash.jpg"
 image source name: Jordan Nix
 image source URL: https://unsplash.com/photos/biX8sBfNcPc
